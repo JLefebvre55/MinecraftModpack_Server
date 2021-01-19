@@ -17,7 +17,7 @@ before_install:
   - echo -e "machine github.com\n  login ${GH_DEPLOY_KEY}" > ~/.netrc
 
 install:
-  - chmod +x .scripts/buildPack.sh
+  - chmod +x .scripts/buildServer.sh
   - chmod +x .scripts/deploy.sh
 
 script:
