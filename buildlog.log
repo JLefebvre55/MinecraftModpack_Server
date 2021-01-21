@@ -1,0 +1,276 @@
+Creating build folder...
+Fetching modpack JSON...
+Reading forge version and mods from modpack JSON...
+Downloading Forge installer version 1.12.2-14.23.5.2847...
+Running Forge installer -> server...
+Setting up logger: /Users/jaydenlefebvre/Documents/GitHub/MinecraftModpack_Server/build/server/forge-1.12.2-14.23.5.2847-installer.jar.log
+java.net.preferIPv4Stack=true
+Installing server to current directory
+MESSAGE: Data kindly mirrored by CreeperHost at https://creeperhost.net/
+MESSAGE: Considering minecraft server jar
+MESSAGE: Downloading minecraft server version 1.12.2
+  ETag: 71728ed3fbd0acd1394bf3ade2649a5c
+  MD5:  71728ed3fbd0acd1394bf3ade2649a5c
+MESSAGE: Considering library net.minecraftforge:forge:1.12.2-14.23.5.2847: Not Downloading {Wrong Side}
+MESSAGE: Considering library net.minecraft:launchwrapper:1.12
+MESSAGE: Downloading library net.minecraft:launchwrapper:1.12
+MESSAGE: Trying unpacked library net.minecraft:launchwrapper:1.12
+MESSAGE: Considering library org.ow2.asm:asm-all:5.2
+MESSAGE: Downloading library org.ow2.asm:asm-all:5.2
+MESSAGE: Trying unpacked library org.ow2.asm:asm-all:5.2
+MESSAGE: Considering library org.jline:jline:3.5.1
+MESSAGE: Downloading library org.jline:jline:3.5.1
+MESSAGE: Trying unpacked library org.jline:jline:3.5.1
+MESSAGE: Considering library net.java.dev.jna:jna:4.4.0
+MESSAGE: Downloading library net.java.dev.jna:jna:4.4.0
+MESSAGE: Trying unpacked library net.java.dev.jna:jna:4.4.0
+MESSAGE: Considering library com.typesafe.akka:akka-actor_2.11:2.3.3
+MESSAGE: Downloading library com.typesafe.akka:akka-actor_2.11:2.3.3
+MESSAGE: Trying unpacked library com.typesafe.akka:akka-actor_2.11:2.3.3
+MESSAGE: Considering library com.typesafe:config:1.2.1
+MESSAGE: Downloading library com.typesafe:config:1.2.1
+MESSAGE: Trying unpacked library com.typesafe:config:1.2.1
+MESSAGE: Considering library org.scala-lang:scala-actors-migration_2.11:1.1.0
+MESSAGE: Downloading library org.scala-lang:scala-actors-migration_2.11:1.1.0
+MESSAGE: Trying unpacked library org.scala-lang:scala-actors-migration_2.11:1.1.0
+MESSAGE: Considering library org.scala-lang:scala-compiler:2.11.1
+MESSAGE: Downloading library org.scala-lang:scala-compiler:2.11.1
+MESSAGE: Trying unpacked library org.scala-lang:scala-compiler:2.11.1
+MESSAGE: Considering library org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2
+MESSAGE: Downloading library org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2
+MESSAGE: Trying unpacked library org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2
+MESSAGE: Considering library org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2
+MESSAGE: Downloading library org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2
+MESSAGE: Trying unpacked library org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2
+MESSAGE: Considering library org.scala-lang:scala-library:2.11.1
+MESSAGE: Downloading library org.scala-lang:scala-library:2.11.1
+MESSAGE: Trying unpacked library org.scala-lang:scala-library:2.11.1
+MESSAGE: Considering library org.scala-lang:scala-parser-combinators_2.11:1.0.1
+MESSAGE: Downloading library org.scala-lang:scala-parser-combinators_2.11:1.0.1
+MESSAGE: Trying unpacked library org.scala-lang:scala-parser-combinators_2.11:1.0.1
+MESSAGE: Considering library org.scala-lang:scala-reflect:2.11.1
+MESSAGE: Downloading library org.scala-lang:scala-reflect:2.11.1
+MESSAGE: Trying unpacked library org.scala-lang:scala-reflect:2.11.1
+MESSAGE: Considering library org.scala-lang:scala-swing_2.11:1.0.1
+MESSAGE: Downloading library org.scala-lang:scala-swing_2.11:1.0.1
+MESSAGE: Trying unpacked library org.scala-lang:scala-swing_2.11:1.0.1
+MESSAGE: Considering library org.scala-lang:scala-xml_2.11:1.0.2
+MESSAGE: Downloading library org.scala-lang:scala-xml_2.11:1.0.2
+MESSAGE: Trying unpacked library org.scala-lang:scala-xml_2.11:1.0.2
+MESSAGE: Considering library lzma:lzma:0.0.1
+MESSAGE: Downloading library lzma:lzma:0.0.1
+MESSAGE: Trying unpacked library lzma:lzma:0.0.1
+MESSAGE: Considering library net.sf.jopt-simple:jopt-simple:5.0.3
+MESSAGE: Downloading library net.sf.jopt-simple:jopt-simple:5.0.3
+MESSAGE: Trying unpacked library net.sf.jopt-simple:jopt-simple:5.0.3
+MESSAGE: Considering library java3d:vecmath:1.5.2
+MESSAGE: Downloading library java3d:vecmath:1.5.2
+MESSAGE: Trying unpacked library java3d:vecmath:1.5.2
+MESSAGE: Considering library net.sf.trove4j:trove4j:3.0.3
+MESSAGE: Downloading library net.sf.trove4j:trove4j:3.0.3
+MESSAGE: Trying unpacked library net.sf.trove4j:trove4j:3.0.3
+MESSAGE: Considering library org.apache.maven:maven-artifact:3.5.3
+MESSAGE: Downloading library org.apache.maven:maven-artifact:3.5.3
+MESSAGE: Trying unpacked library org.apache.maven:maven-artifact:3.5.3
+Extracting: /forge-1.12.2-14.23.5.2847-universal.jar
+To:          /Users/jaydenlefebvre/Documents/GitHub/MinecraftModpack_Server/build/server/./forge-1.12.2-14.23.5.2847-universal.jar
+The server installed successfully, you should now be able to run the file forge-1.12.2-14.23.5.2847-universal.jar
+You can delete this installer file now if you wish
+Deleting installer...
+Creating mods folder...
+No non-CurseForge mods found; proeceeding...
+Downloading CurseForge mods...
+Mod 1: Downloading Core - bspkrsCore (ID 323993:2722821, URL: https://edge.forgecdn.net/files/2722/821/[1.12]bspkrsCore-universal-7.6.0.1.jar)...
+Mod 2: Downloading Core - Forge MultiPart CBE (ID 258426:2626992, URL: https://edge.forgecdn.net/files/2626/992/ForgeMultipart-1.12.2-2.6.0.79-universal.jar)...
+Mod 3: Downloading Core - Mantle (ID 74924:2713386, URL: https://edge.forgecdn.net/files/2713/386/Mantle-1.12-1.3.3.55.jar)...
+Mod 4: Downloading Core - McJtyLib (ID 233105:2745846, URL: https://edge.forgecdn.net/files/2745/846/mcjtylib-1.12-3.5.4.jar)...
+Mod 5: Downloading Core - Numina (ID 235440:2715198, URL: https://edge.forgecdn.net/files/2715/198/Numina-1.12.2-1.0.38.jar)...
+Mod 6: Downloading Core - WanionLib (ID 253043:3064112, URL: https://edge.forgecdn.net/files/3064/112/WanionLib-1.12.2-2.5.jar)...
+Mod 7: Downloading Core - Baubles (ID 227083:2518667, URL: https://edge.forgecdn.net/files/2518/667/Baubles-1.12-1.5.2.jar)...
+Mod 8: Downloading AppleSkin (ID 248787:2987247, URL: https://edge.forgecdn.net/files/2987/247/AppleSkin-mc1.12-1.0.14.jar)...
+Mod 9: Downloading Applied Energistics 2 (ID 223794:2747063, URL: https://edge.forgecdn.net/files/2747/63/appliedenergistics2-rv6-stable-7.jar)...
+Mod 10: Downloading Applied Energistics 2 - Extra Cells (ID 229218:2653854, URL: https://edge.forgecdn.net/files/2653/854/ExtraCells-1.12.2-2.6.2a.jar)...
+Mod 11: Downloading Applied Energistics 2 - Just Enough Energistics (ID 310812:2783832, URL: https://edge.forgecdn.net/files/2783/832/JustEnoughEnergistics-1.12.2-1.0.8.jar)...
+Mod 12: Downloading Biomes O' Plenty (ID 220318:2715506, URL: https://edge.forgecdn.net/files/2715/506/BiomesOPlenty-1.12.2-7.0.1.2441-universal.jar)...
+Mod 13: Downloading BuildCraft (ID 61811:2914534, URL: https://edge.forgecdn.net/files/2914/534/buildcraft-all-7.99.24.6.jar)...
+Mod 14: Downloading BuildCraft - Additional Pipes (ID 302569:2615327, URL: https://edge.forgecdn.net/files/2615/327/additionalpipes-6.0.0.8.jar)...
+Mod 15: Downloading Chicken Chunks (ID 243883:2755785, URL: https://edge.forgecdn.net/files/2755/785/ChickenChunks-1.12.2-2.4.2.74-universal.jar)...
+Mod 16: Downloading CodeChicken Lib (ID 242818:2779848, URL: https://edge.forgecdn.net/files/2779/848/CodeChickenLib-1.12.2-3.2.3.358-universal.jar)...
+Mod 17: Downloading CoFH - Core (ID 69162:2920433, URL: https://edge.forgecdn.net/files/2920/433/CoFHCore-1.12.2-4.6.6.1-universal.jar)...
+Mod 18: Downloading CoFH - World (ID 271384:2715784, URL: https://edge.forgecdn.net/files/2715/784/CoFHWorld-1.12.2-1.3.1.7-universal.jar)...
+Mod 19: Downloading CoFH - Redstone Flux (ID 270789:2623090, URL: https://edge.forgecdn.net/files/2623/90/RedstoneFlux-1.12-2.1.0.6-universal.jar)...
+Mod 20: Downloading CraftTweaker (ID 239197:2724129, URL: https://edge.forgecdn.net/files/2724/129/CraftTweaker2-1.12-4.1.19.jar)...
+Mod 21: Downloading EnergyConverters (ID 254818:2826061, URL: https://edge.forgecdn.net/files/2826/61/energyconverters_1.12.2-1.3.6.24.jar)...
+Mod 22: Downloading Forestry (ID 59751:2684780, URL: https://edge.forgecdn.net/files/2684/780/forestry_1.12.2-5.8.2.387.jar)...
+Mod 23: Downloading Hwyla (ID 253449:2568751, URL: https://edge.forgecdn.net/files/2568/751/Hwyla-1.8.26-B41_1.12.2.jar)...
+Mod 24: Downloading IndustrialCraft 2 Classic (ID 242942:3093607, URL: https://edge-service.overwolf.wtf/files/3093/607/IC2Classic%201.12-1.5.5.2.1.jar)...
+Mod 25: Downloading InventoryTweaks (ID 223094:2482481, URL: https://edge.forgecdn.net/files/2482/481/InventoryTweaks-1.63.jar)...
+Mod 26: Downloading Iron Backpacks (ID 227049:2564573, URL: https://edge.forgecdn.net/files/2564/573/IronBackpacks-1.12.2-3.0.8-12.jar)...
+Mod 27: Downloading Iron Chests (ID 228756:2747935, URL: https://edge.forgecdn.net/files/2747/935/ironchest-1.12.2-7.0.72.847.jar)...
+Mod 28: Downloading Just Enough Items (ID 238222:3040523, URL: https://edge.forgecdn.net/files/3040/523/jei_1.12.2-4.16.1.301.jar)...
+Mod 29: Downloading JourneyMap (ID 32274:2916002, URL: https://edge.forgecdn.net/files/2916/2/journeymap-1.12.2-5.7.1.jar)...
+Mod 30: Downloading Modular Powersuits (ID 235442:2743885, URL: https://edge.forgecdn.net/files/2743/885/ModularPowersuits-1.12.2-1.0.46.jar)...
+Mod 31: Downloading Railcraft (ID 51195:2687757, URL: https://edge.forgecdn.net/files/2687/757/railcraft-12.0.0.jar)...
+Mod 32: Downloading RFTools (ID 224641:2861573, URL: https://edge.forgecdn.net/files/2861/573/rftools-1.12-7.73.jar)...
+Mod 33: Downloading Simple Planes (ID 388908:3087441, URL: https://edge.forgecdn.net/files/3087/441/simpleplanes-1.12.2-3.0.1.7.jar)...
+Mod 34: Downloading SpawnCommands (ID 235863:2524509, URL: https://edge.forgecdn.net/files/2524/509/SpawnCommands-2.7.2alpha-mc1.12.2-forge-NoYLimitsConfigOption.jar)...
+Mod 35: Downloading Thaumcraft (ID 223628:2629023, URL: https://edge.forgecdn.net/files/2629/23/Thaumcraft-1.12.2-6.1.BETA26.jar)...
+Mod 36: Downloading Thaumcraft - Thaumic JEI (ID 285492:2705304, URL: https://edge.forgecdn.net/files/2705/304/ThaumicJEI-1.12.2-1.6.0-27.jar)...
+Mod 37: Downloading Thaumcraft - Thaumic Tinkerer (ID 75598:2957213, URL: https://edge.forgecdn.net/files/2957/213/thaumictinkerer-1.12.2-5.0-620a0c5.jar)...
+Mod 38: Downloading Thaumcraft - Thaumic Energistics (ID 223666:2750063, URL: https://edge.forgecdn.net/files/2750/63/thaumicenergistics-2.2.3.jar)...
+Mod 39: Downloading Thermal Foundation (ID 222880:2926428, URL: https://edge.forgecdn.net/files/2926/428/ThermalFoundation-1.12.2-2.6.7.1-universal.jar)...
+Mod 40: Downloading Thermal Expansion (ID 69163:2926431, URL: https://edge.forgecdn.net/files/2926/431/ThermalExpansion-1.12.2-5.5.7.1-universal.jar)...
+Mod 41: Downloading Thermal Dynamics (ID 227443:2920505, URL: https://edge.forgecdn.net/files/2920/505/ThermalDynamics-1.12.2-2.5.6.1-universal.jar)...
+Mod 42: Downloading Tinkers' Construct (ID 74072:2902483, URL: https://edge.forgecdn.net/files/2902/483/TConstruct-1.12.2-2.13.0.183.jar)...
+Mod 43: Downloading TreeCapitator (ID 324007:2722878, URL: https://edge.forgecdn.net/files/2722/878/[1.12]TreeCapitator-client-1.43.0.jar)...
+Mod 44: Downloading UniDict (ID 244258:3162137, URL: https://edge.forgecdn.net/files/3162/137/UniDict-1.12.2-3.0.4.jar)...
+Mod 45: Downloading UniDict (ID 244258:3162137, URL: https://edge.forgecdn.net/files/3162/137/UniDict-1.12.2-3.0.4.jar)...
+Mod 46: Downloading UniDict - InstantUnify (ID 277047:2578325, URL: https://edge.forgecdn.net/files/2578/325/instantunify-1.12.2-1.1.2.jar)...
+Mod 47: Downloading Wawla (ID 224712:2916368, URL: https://edge.forgecdn.net/files/2916/368/Wawla-1.12.2-2.6.275.jar)...
+Mod 48: Downloading Wireless Redstone CBE (ID 260824:2755798, URL: https://edge.forgecdn.net/files/2755/798/WR-CBE-1.12.2-2.3.2.33-universal.jar)...
+49 CurseForge mods downloaded.\n
+All mods downloaded.
+Copying overridden files...
+/Users/jaydenlefebvre/Documents/GitHub/MinecraftModpack_Server/overrides/. -> ./.
+/Users/jaydenlefebvre/Documents/GitHub/MinecraftModpack_Server/overrides/./launch.sh -> ././launch.sh
+/Users/jaydenlefebvre/Documents/GitHub/MinecraftModpack_Server/overrides/./launch.bat -> ././launch.bat
+Server built.
+Compressing...
+  adding: launch.sh (deflated 7%)
+  adding: launch.bat (stored 0%)
+  adding: server/ (stored 0%)
+  adding: server/minecraft_server.1.12.2.jar (deflated 10%)
+  adding: server/libraries/ (stored 0%)
+  adding: server/libraries/net/ (stored 0%)
+  adding: server/libraries/net/java/ (stored 0%)
+  adding: server/libraries/net/java/dev/ (stored 0%)
+  adding: server/libraries/net/java/dev/jna/ (stored 0%)
+  adding: server/libraries/net/java/dev/jna/jna/ (stored 0%)
+  adding: server/libraries/net/java/dev/jna/jna/4.4.0/ (stored 0%)
+  adding: server/libraries/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar (deflated 2%)
+  adding: server/libraries/net/sf/ (stored 0%)
+  adding: server/libraries/net/sf/trove4j/ (stored 0%)
+  adding: server/libraries/net/sf/trove4j/trove4j/ (stored 0%)
+  adding: server/libraries/net/sf/trove4j/trove4j/3.0.3/ (stored 0%)
+  adding: server/libraries/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar (deflated 11%)
+  adding: server/libraries/net/sf/jopt-simple/ (stored 0%)
+  adding: server/libraries/net/sf/jopt-simple/jopt-simple/ (stored 0%)
+  adding: server/libraries/net/sf/jopt-simple/jopt-simple/5.0.3/ (stored 0%)
+  adding: server/libraries/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar (deflated 11%)
+  adding: server/libraries/net/minecraft/ (stored 0%)
+  adding: server/libraries/net/minecraft/launchwrapper/ (stored 0%)
+  adding: server/libraries/net/minecraft/launchwrapper/1.12/ (stored 0%)
+  adding: server/libraries/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar (deflated 9%)
+  adding: server/libraries/org/ (stored 0%)
+  adding: server/libraries/org/ow2/ (stored 0%)
+  adding: server/libraries/org/ow2/asm/ (stored 0%)
+  adding: server/libraries/org/ow2/asm/asm-all/ (stored 0%)
+  adding: server/libraries/org/ow2/asm/asm-all/5.2/ (stored 0%)
+  adding: server/libraries/org/ow2/asm/asm-all/5.2/asm-all-5.2.jar (deflated 9%)
+  adding: server/libraries/org/scala-lang/ (stored 0%)
+  adding: server/libraries/org/scala-lang/scala-compiler/ (stored 0%)
+  adding: server/libraries/org/scala-lang/scala-compiler/2.11.1/ (stored 0%)
+  adding: server/libraries/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar (deflated 12%)
+  adding: server/libraries/org/scala-lang/scala-xml_2.11/ (stored 0%)
+  adding: server/libraries/org/scala-lang/scala-xml_2.11/1.0.2/ (stored 0%)
+  adding: server/libraries/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar (deflated 8%)
+  adding: server/libraries/org/scala-lang/scala-swing_2.11/ (stored 0%)
+  adding: server/libraries/org/scala-lang/scala-swing_2.11/1.0.1/ (stored 0%)
+  adding: server/libraries/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar (deflated 8%)
+  adding: server/libraries/org/scala-lang/scala-actors-migration_2.11/ (stored 0%)
+  adding: server/libraries/org/scala-lang/scala-actors-migration_2.11/1.1.0/ (stored 0%)
+  adding: server/libraries/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar (deflated 9%)
+  adding: server/libraries/org/scala-lang/plugins/ (stored 0%)
+  adding: server/libraries/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/ (stored 0%)
+  adding: server/libraries/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/ (stored 0%)
+  adding: server/libraries/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar (deflated 15%)
+  adding: server/libraries/org/scala-lang/plugins/scala-continuations-library_2.11/ (stored 0%)
+  adding: server/libraries/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/ (stored 0%)
+  adding: server/libraries/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar (deflated 17%)
+  adding: server/libraries/org/scala-lang/scala-parser-combinators_2.11/ (stored 0%)
+  adding: server/libraries/org/scala-lang/scala-parser-combinators_2.11/1.0.1/ (stored 0%)
+  adding: server/libraries/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar (deflated 16%)
+  adding: server/libraries/org/scala-lang/scala-reflect/ (stored 0%)
+  adding: server/libraries/org/scala-lang/scala-reflect/2.11.1/ (stored 0%)
+  adding: server/libraries/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar (deflated 11%)
+  adding: server/libraries/org/scala-lang/scala-library/ (stored 0%)
+  adding: server/libraries/org/scala-lang/scala-library/2.11.1/ (stored 0%)
+  adding: server/libraries/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar (deflated 11%)
+  adding: server/libraries/org/jline/ (stored 0%)
+  adding: server/libraries/org/jline/jline/ (stored 0%)
+  adding: server/libraries/org/jline/jline/3.5.1/ (stored 0%)
+  adding: server/libraries/org/jline/jline/3.5.1/jline-3.5.1.jar (deflated 6%)
+  adding: server/libraries/org/apache/ (stored 0%)
+  adding: server/libraries/org/apache/maven/ (stored 0%)
+  adding: server/libraries/org/apache/maven/maven-artifact/ (stored 0%)
+  adding: server/libraries/org/apache/maven/maven-artifact/3.5.3/ (stored 0%)
+  adding: server/libraries/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar (deflated 14%)
+  adding: server/libraries/java3d/ (stored 0%)
+  adding: server/libraries/java3d/vecmath/ (stored 0%)
+  adding: server/libraries/java3d/vecmath/1.5.2/ (stored 0%)
+  adding: server/libraries/java3d/vecmath/1.5.2/vecmath-1.5.2.jar (deflated 61%)
+  adding: server/libraries/lzma/ (stored 0%)
+  adding: server/libraries/lzma/lzma/ (stored 0%)
+  adding: server/libraries/lzma/lzma/0.0.1/ (stored 0%)
+  adding: server/libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar (deflated 6%)
+  adding: server/libraries/com/ (stored 0%)
+  adding: server/libraries/com/typesafe/ (stored 0%)
+  adding: server/libraries/com/typesafe/config/ (stored 0%)
+  adding: server/libraries/com/typesafe/config/1.2.1/ (stored 0%)
+  adding: server/libraries/com/typesafe/config/1.2.1/config-1.2.1.jar (deflated 9%)
+  adding: server/libraries/com/typesafe/akka/ (stored 0%)
+  adding: server/libraries/com/typesafe/akka/akka-actor_2.11/ (stored 0%)
+  adding: server/libraries/com/typesafe/akka/akka-actor_2.11/2.3.3/ (stored 0%)
+  adding: server/libraries/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar (deflated 9%)
+  adding: server/mods/ (stored 0%)
+  adding: server/mods/Wawla-1.12.2-2.6.275.jar (deflated 8%)
+  adding: server/mods/CraftTweaker2-1.12-4.1.19.jar (deflated 10%)
+  adding: server/mods/rftools-1.12-7.73.jar (deflated 10%)
+  adding: server/mods/BiomesOPlenty-1.12.2-7.0.1.2441-universal.jar (deflated 11%)
+  adding: server/mods/Numina-1.12.2-1.0.38.jar (deflated 10%)
+  adding: server/mods/ForgeMultipart-1.12.2-2.6.0.79-universal.jar (deflated 9%)
+  adding: server/mods/CoFHCore-1.12.2-4.6.6.1-universal.jar (deflated 9%)
+  adding: server/mods/ExtraCells-1.12.2-2.6.2a.jar (deflated 7%)
+  adding: server/mods/additionalpipes-6.0.0.8.jar (deflated 15%)
+  adding: server/mods/ThermalExpansion-1.12.2-5.5.7.1-universal.jar (deflated 10%)
+  adding: server/mods/WR-CBE-1.12.2-2.3.2.33-universal.jar (deflated 12%)
+  adding: server/mods/ChickenChunks-1.12.2-2.4.2.74-universal.jar (deflated 11%)
+  adding: server/mods/WanionLib-1.12.2-2.5.jar (deflated 10%)
+  adding: server/mods/TConstruct-1.12.2-2.13.0.183.jar (deflated 17%)
+  adding: server/mods/SpawnCommands-2.7.2alpha-mc1.12.2-forge-NoYLimitsConfigOption.jar (deflated 5%)
+  adding: server/mods/[1.12]bspkrsCore-universal-7.6.0.1.jar (deflated 10%)
+  adding: server/mods/railcraft-12.0.0.jar (deflated 13%)
+  adding: server/mods/ThaumicJEI-1.12.2-1.6.0-27.jar (deflated 11%)
+  adding: server/mods/Mantle-1.12-1.3.3.55.jar (deflated 10%)
+  adding: server/mods/JustEnoughEnergistics-1.12.2-1.0.8.jar (deflated 12%)
+  adding: server/mods/journeymap-1.12.2-5.7.1.jar (deflated 8%)
+  adding: server/mods/CoFHWorld-1.12.2-1.3.1.7-universal.jar (deflated 9%)
+  adding: server/mods/thaumicenergistics-2.2.3.jar (deflated 14%)
+  adding: server/mods/energyconverters_1.12.2-1.3.6.24.jar (deflated 18%)
+  adding: server/mods/buildcraft-all-7.99.24.6.jar (deflated 15%)
+  adding: server/mods/ironchest-1.12.2-7.0.72.847.jar (deflated 48%)
+  adding: server/mods/forestry_1.12.2-5.8.2.387.jar (deflated 14%)
+  adding: server/mods/ThermalDynamics-1.12.2-2.5.6.1-universal.jar (deflated 10%)
+  adding: server/mods/AppleSkin-mc1.12-1.0.14.jar (deflated 14%)
+  adding: server/mods/simpleplanes-1.12.2-3.0.1.7.jar (deflated 12%)
+  adding: server/mods/[1.12]TreeCapitator-client-1.43.0.jar (deflated 6%)
+  adding: server/mods/thaumictinkerer-1.12.2-5.0-620a0c5.jar (deflated 8%)
+  adding: server/mods/RedstoneFlux-1.12-2.1.0.6-universal.jar (deflated 10%)
+  adding: server/mods/appliedenergistics2-rv6-stable-7.jar (deflated 17%)
+  adding: server/mods/Thaumcraft-1.12.2-6.1.BETA26.jar (deflated 4%)
+  adding: server/mods/InventoryTweaks-1.63.jar (deflated 6%)
+  adding: server/mods/ModularPowersuits-1.12.2-1.0.46.jar (deflated 11%)
+  adding: server/mods/CodeChickenLib-1.12.2-3.2.3.358-universal.jar (deflated 9%)
+  adding: server/mods/Baubles-1.12-1.5.2.jar (deflated 10%)
+  adding: server/mods/instantunify-1.12.2-1.1.2.jar (deflated 10%)
+  adding: server/mods/IC2Classic%201.12-1.5.5.2.1.jar (deflated 7%)
+  adding: server/mods/IronBackpacks-1.12.2-3.0.8-12.jar (deflated 16%)
+  adding: server/mods/mcjtylib-1.12-3.5.4.jar (deflated 8%)
+  adding: server/mods/UniDict-1.12.2-3.0.4.jar (deflated 5%)
+  adding: server/mods/jei_1.12.2-4.16.1.301.jar (deflated 9%)
+  adding: server/mods/Hwyla-1.8.26-B41_1.12.2.jar (deflated 6%)
+  adding: server/mods/ThermalFoundation-1.12.2-2.6.7.1-universal.jar (deflated 13%)
+  adding: server/forge-1.12.2-14.23.5.2847-universal.jar (deflated 6%)
+  adding: server/forge-1.12.2-14.23.5.2847-installer.jar.log (deflated 81%)
+  adding: modpack.json (deflated 84%)
+Created server.zip successfully.
